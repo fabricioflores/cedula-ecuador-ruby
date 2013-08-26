@@ -1,3 +1,4 @@
+#número_de_identificación va a ser el atributo dentro de la clase (Persona, Usuario, etc)
 def validate_cedula_ruc_ec
  tipo_numero_de_identificacion = nil
  valido = false
